@@ -40,3 +40,8 @@ The Fitness Tracker App allows users to track their daily workouts, maintain per
 ## Contributing 🤝
 
 Contributions are welcome! If you have any feature requests, bug reports, or suggestions for improvement, feel free to open an issue or submit a pull request.
+
+## Availability 📲
+
+The Fitness Tracker App is currently not available on the App Store. I'm continuously working on adding new features and improving the app's functionality. Once all features are implemented and the app is ready for public release, I will upload it to the App Store. Stay tuned for updates!
+
